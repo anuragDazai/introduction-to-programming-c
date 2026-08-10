@@ -1,6 +1,6 @@
 # Assignment 01 — Print "Adamas University"
 
-## 📌 Objective
+## 📌 Objective of the program
 
 Write a C program to print the text:
 
