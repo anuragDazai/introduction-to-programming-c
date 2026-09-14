@@ -9,7 +9,7 @@ int main() {
 
     temp = n; // so we assing the value of the number we take from user in temp variable, now we have two copies one in n and another in temp.
 
-    // Handle 0 explicitly since 0 has 1 digit
+    // so we take care of hhe single digit number as zero within the if condition and we will return 1 as the count of digits in that number.
     if (temp == 0) {
         count = 1;
     } else {
