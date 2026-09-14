@@ -20,7 +20,7 @@ int main() {
 
         while (temp != 0) {
             temp = temp / 10; // Remove the last digitsince we declared temp as int not a float so it'll automatically round down the value to the nearest integer.
-            count++;          // we are incresing the count variable by 1 each time we remove a digit from temp.
+            count++;   // we are incresing the count variable by 1 each time we remove a digit from temp.
         }
     }
 
